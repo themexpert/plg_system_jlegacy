@@ -13,6 +13,9 @@
 	<files>
 		<folder plugin="jlegacy">services</folder>
 		<folder>src</folder>
+		<folder>language</folder>
+		<filename>LICENSE.txt</filename>
+		<filename>README.md</filename>
 	</files>
 	<languages>
 		<language tag="en-GB">language/en-GB/plg_system_jlegacy.ini</language>
